@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/micanail/static/css/main.8c43bd1f.css",
+    "main.js": "/micanail/static/js/main.4eb73215.js",
+    "index.html": "/micanail/index.html",
+    "main.8c43bd1f.css.map": "/micanail/static/css/main.8c43bd1f.css.map",
+    "main.4eb73215.js.map": "/micanail/static/js/main.4eb73215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c43bd1f.css",
+    "static/js/main.4eb73215.js"
+  ]
+}
